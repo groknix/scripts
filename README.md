@@ -12,7 +12,7 @@ reusable code.
 As time permits, I also want to provide some clear and
 well explained comments so that anyone wishing to use
 anything here completely understands what each line
-is doing.  This shoule help both you and I to grow.
+is doing.  This should help both you and I to grow.
 
 ## License
 
@@ -22,7 +22,7 @@ otherwise noted.
 See [https://www.apache.org/licenses/LICENSE-2.0.txt](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
 
-Copyright [2013-2017] [Daniel Williams]
+Copyright 2013-2017, Daniel Williams
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
