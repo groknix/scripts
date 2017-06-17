@@ -3,16 +3,18 @@
 
 ## Intro
 
-This is a complete and utter f*#@ing mess right now.
+This is a work in progress.
 
-In the future, this will be a repo to hold my collection
-of scripts snippets and functions etc. to facilitate
-reusable code.
+This is a repo to hold my collection of scripts
+snippets and functions etc. to facilitate reusable
+code and to preserve any substantial work with clear
+comments..
 
 As time permits, I also want to provide some clear and
-well explained comments so that anyone wishing to use
+well explained comments inline so that anyone wishing to use
 anything here completely understands what each line
-is doing.  This should help both you and I to grow.
+is doing.  This can be stripped out later, but should help
+beginners and the forgetful. 
 
 ## License
 
